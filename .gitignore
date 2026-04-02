@@ -1,0 +1,27 @@
+# MLflow
+mlruns/
+mlflow.db
+
+# Model artifacts
+artifacts/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
